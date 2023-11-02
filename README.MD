@@ -1,6 +1,6 @@
 # ENDPOINT ATAU URL UNTUK AKSES BACKEND KUPON
 
-Baseurl: "http://192.168.77.222:8080/Kupon"
+Baseurl: "http://SERVER-108:8080/Kupon"
 
 sales:
 "/api/sales/getAll" : untuk menampilkan Seluruh data Sales
